@@ -224,13 +224,23 @@ Before diving into machine learning, it's important to have a strong foundation 
 
 ## Deployment and Ethics
 
-### 31. Model Deployment
+### 34. Model Deployment
 - Web APIs and Microservices
 - Containerization with Docker
 - Cloud Deployment (AWS, GCP, Azure)
 
-### 32. Ethical Considerations
-- Bias and Fairness in ML
-- Privacy and Data Protection
-- Transparency and Accountability
+### 35. Bias and Fairness
+- Bias in Machine Learning
+- Fairness Metrics and Mitigation
+- Avoiding Bias in Models
+
+### 36. Privacy and Security
+- Data Privacy Regulations
+- Differential Privacy
+- Secure Machine Learning
+
+### 37. Ethical Considerations
+- Responsible AI Development
+- Transparency and Explainability
+- Handling Sensitive Data
 
