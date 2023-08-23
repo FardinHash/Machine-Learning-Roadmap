@@ -16,7 +16,7 @@ Before diving into machine learning, it's important to have a strong foundation 
 | Deep Learning 🌠               | [Recurrent Neural Networks (RNN)](#21-recurrent-neural-networks-rnn)<br>[Generative Adversarial Networks (GAN)](#22-generative-adversarial-networks-gan)<br>[Transfer Learning](#23-transfer-learning) |
 | Natural Language Processing 📝  | [Introduction to NLP](#24-introduction-to-natural-language-processing)<br>[Text Preprocessing](#25-text-preprocessing)<br>[Word Embeddings](#26-word-embeddings)<br>[Sequence-to-Sequence Models](#27-sequence-to-sequence-models) |
 | Model Evaluation 📈             | [Evaluation Metrics](#28-evaluation-metrics)<br>[Cross-Validation](#29-cross-validation)<br>[Hyperparameter Tuning](#30-hyperparameter-tuning) |
-| Deployment and Ethics 🚀🛡️     | [Model Deployment](#31-model-deployment)<br>[Ethical Considerations](#32-ethical-considerations) |
+| Deployment and Ethics 🚀🛡️     | [Model Deployment](#34-model-deployment)<br>[Bias and Fairness](#35-bias-and-fairness)<br>[Privacy and Security](#36-privacy-and-security)<br>[Ethical Considerations](#37-ethical-considerations) |
 
 ---
 
