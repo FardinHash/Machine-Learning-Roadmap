@@ -1,4 +1,8 @@
 # Machine-Learning-Roadmap 🔍🤖📈
+<a href="https://github.com/FardinHash/Machine-Learning-Roadmap/stargazers" target="_blank">
+  <img src="https://img.shields.io/github/stars/FardinHash/Machine-Learning-Roadmap?style=social" alt="Star Repo" />
+</a>
+
 *Whether you're a beginner or looking to level up your skills, this guide is designed to help you navigate the exciting world of machine learning. From fundamental concepts to advanced techniques, it's all here.*
 
 ---
